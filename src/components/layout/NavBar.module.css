@@ -1,0 +1,32 @@
+.Border1{
+    border-bottom: 1px solid rgb(204, 238, 252);
+    margin-bottom: 30px;
+}
+.ulFlex{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    list-style: none;
+    color: rgb(204, 238, 252);
+}
+.flexCarrito{
+    display: flex;
+    align-items: center;
+}
+
+.navLink {
+    color: #fdf7f7; /* Color del texto */
+    text-decoration: none; /* Sin subrayado */
+    padding: 8px 12px; /* Espaciado interno */
+    border-radius: 4px; /* Bordes redondeados */
+    transition: background-color 0.3s ease; /* Transición suave para el cambio de color de fondo */
+  }
+  
+  .navLink:hover {
+    background-color: #3700ff; /* Color de fondo al pasar el mouse */
+  }
+  
