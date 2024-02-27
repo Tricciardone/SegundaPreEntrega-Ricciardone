@@ -1,0 +1,14 @@
+.Titulo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: rgb(204, 238, 252);
+}
+/* Tamaño fuente titulo */
+.FZT{
+    font-size: 30px;
+}
+/* Tamaño fuente del body */
+.FZB{
+    font-size: 18px;
+}
